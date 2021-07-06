@@ -1,0 +1,38 @@
+
+body 
+{
+background-color: #BC85A3;
+
+}
+.navbar-header
+{
+border-radius: 0;
+border:0;
+}
+
+.navbar-brand h5
+{
+color:#BC85A3;
+
+}
+ul{background-color: rgb(241, 211, 228);}
+
+a {text-decoration: none;}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{border:1px #BC85A3 solid;}
+#ourmenu  {margin:20px;
+padding:20px;
+font-size:50px;
+font-family: cursive;}
+
+.menus{background-color: rgb(202, 200, 200);
+height:1000px;}
+h4
+{font-size:x-large;
+margin:10px;
+padding:10px;
+font-family: cursive;
+}
+.tex{font-size:15px;
+padding:20px;}
+.navbar-brand a{text-decoration: none;}
+
